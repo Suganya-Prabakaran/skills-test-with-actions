@@ -76,7 +76,7 @@ def test_get_nth_fibonacci_ten():
     # Act
     result = get_nth_fibonacci(n)
 
-    # Assert
+    # Assert - 10th Fibonacci number (0-indexed) is 55
     assert result == 55
 
 
